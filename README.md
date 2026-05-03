@@ -53,11 +53,11 @@ football-scouting-dashboard-bruno/
 └── .streamlit/config.toml
 🌐 Live Demo
 
-(Add your Streamlit link here after deployment)
+https://football-scouting-dashboard-bruno-fernandes-fb7xbj7q8fv3iwoxme.streamlit.app/
 
 📊 Dashboard Preview
 
-(Add screenshots here)
+<img width="1599" height="762" alt="image" src="https://github.com/user-attachments/assets/823e1c47-8471-4f11-8dc7-adf80778ba31" />
 
 📈 Example Visuals
 Goals vs xG comparison
