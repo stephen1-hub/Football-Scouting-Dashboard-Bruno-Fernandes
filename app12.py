@@ -43,9 +43,9 @@ with col2:
 # -----------------------------
 # KPIs (FROM YOUR DATA)
 # -----------------------------
-total_goals = 7
-total_xg = 11.38
-total_xa = 15.75
+total_goals = 8
+total_xg = 11.39
+total_xa = 15.79
 
 col1, col2, col3, col4 = st.columns(4)
 
@@ -94,10 +94,10 @@ type_df = pd.DataFrame({
 })
 
 situation_df = pd.DataFrame({
-    "situation": ["Open play", "Penalty", "Direct FK", "Corner"],
-    "shots": [57, 6, 5, 5],
-    "goals": [3, 4, 1, 0],
-    "xG": [6.04, 4.57, 0.44, 0.16]
+    "situation": ["Open play", "Penalty", "Direct FK", "Corner","Set piece"],
+    "shots": [57, 6, 5, 5, 4],
+    "goals": [3, 4, 1, 0, 0],
+    "xG": [6.04, 4.57, 0.44, 0.16, 0.18]
 })
 
 position_df = pd.DataFrame({
